@@ -1,9 +1,8 @@
 
-
-.. figure:: splash.png    
+.. figure:: _static/splash.png    
    :width: 600px
    :alt: template
 
    template
 
-template
+PHOTON

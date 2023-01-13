@@ -1,7 +1,7 @@
 from ablog.conf import *
 
-org = 'geometor'
-org_name = 'GEOMETOR'
+org = 'photon-platform'
+org_name = 'PHOTON'
 
 repo = 'template'
 repo_name = 'template'
